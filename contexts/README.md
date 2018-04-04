@@ -1,4 +1,4 @@
-# 2.SELINUX上下文 
+## 2.SELINUX上下文 
 
 &emsp;&emsp;进程和文件标有SELinux上下文，其中包含其他信息，如SELinux用户，角色，类型和可选的级别。运行SELinux时，所有这些信息都用于制定访问控制决策。在红帽企业Linux中，SELinux提供基于角色的访问控制（RBAC），类型执行（TE）和可选的多级安全（MLS）的组合。
 
