@@ -1,7 +1,5 @@
-# 简介
+# SELinux 管理手册
 
-## [概述](Introduction/README.md)
-
-* [运行SELinux的好处](Introduction/Benefits of running SELinux.md)
-* [示例](Introduction/Examples.md)
-
+* [概述](intro/README.md)
+  * [运行SELinux的好处](intro/benefits.md)
+  * [示例](intro/examples.md)
